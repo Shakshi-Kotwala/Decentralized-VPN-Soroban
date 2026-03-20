@@ -301,3 +301,6 @@ PORT=4000
 ## 👩‍💻 Author
 
 Shakshi Kotwala
+<img width="1907" height="966" alt="Screenshot 2026-03-20 211947" src="https://github.com/user-attachments/assets/35697106-8d53-43fe-ba5d-c6308f95d710" />
+<img width="1919" height="977" alt="Screenshot 2026-03-20 212800" src="https://github.com/user-attachments/assets/7ae1c8c2-fd11-4861-8b52-5348d6b194d0" />
+
