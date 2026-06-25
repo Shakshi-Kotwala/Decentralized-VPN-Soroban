@@ -16,29 +16,11 @@
 
 **[https://decentralized-vpn-soroban.vercel.app](https://decentralized-vpn-soroban.vercel.app)**
 
----
-
-## 🎬 Demo Video
-
-**[▶ Watch 1-minute demo on Loom](https://loom.com/share/YOUR_LINK_HERE)**
 
 > Shows: wallet connection, VPN node registration, session management, transaction tracking, event feed.
 
 ---
 
-## 📸 Screenshots
-
-### Wallet Selection (4 wallets available)
-
-![Wallet Modal](docs/screenshot-wallets.png)
-> *Freighter, xBull, LOBSTR, and Albedo — all selectable via StellarWalletsKit*
-
-### Test Suite Output (3+ passing)
-
-![Test Output](docs/screenshot-tests.png)
-> *13+ tests across 3 suites: error handling, caching, contract integration*
-
----
 
 ## 🔗 Deployed Contract
 
@@ -46,7 +28,7 @@
 |-------|-------|
 | **Contract ID** | `CDMLFMKMMD6NFLBMKDWLPAO45NDPAMSP3P5LVUQXDM3RBDLRXSPLFTQN` |
 | **Network** | Stellar Testnet |
-| **Deployer** | `GDX2ILF5EHCELK6KREHFGDFKPJMAH74FIATNESSVNKYD4LPPSAGZNGL` (your address) |
+| **Deployer** | `GDX2ILF5EHCELK6KREHFGDFKPJMAH74FIATNESSVNKYD4LPPSAGZNGL`|
 | **Explorer** | [View contract ↗](https://stellar.expert/explorer/testnet/contract/CDMLFMKMMD6NFLBMKDWLPAO45NDPAMSP3P5LVUQXDM3RBDLRXSPLFTQN) |
 
 ### Verified Transaction Hashes
@@ -56,32 +38,6 @@
 | Deploy contract | `[https://decentralized-vpn-soroban.vercel.app]` | [↗](https://stellar.expert/explorer/testnet/tx/) |
 | register_node() | `[FILL_AFTER_CALL]` | [↗](https://stellar.expert/explorer/testnet/tx/) |
 | subscribe()      | `[FILL_AFTER_CALL]` | [↗](https://stellar.expert/explorer/testnet/tx/) |
-
-> ⚠️ Replace the bracketed values above with your actual hashes after running `deploy.sh` and making your first contract call.
-
----
-
-## ✅ Feature Checklist
-
-| Feature | Status |
-|---------|--------|
-| StellarWalletsKit (Freighter, xBull, LOBSTR, Albedo) | ✅ |
-| WalletNotFoundError handling | ✅ |
-| TransactionRejectedError handling | ✅ |
-| InsufficientBalanceError handling | ✅ |
-| Contract deployed on Stellar Testnet | ✅ |
-| Contract called from frontend | ✅ |
-| Reading contract state | ✅ |
-| Writing contract state | ✅ |
-| Event listening & state sync | ✅ |
-| Transaction status (pending/success/fail) | ✅ |
-| Loading states & progress indicators | ✅ |
-| Basic caching implementation | ✅ |
-| 3+ tests passing | ✅ |
-| README with full documentation | ✅ |
-| Live demo link | ✅ |
-| Demo video (1 min) | ✅ |
-| 3+ meaningful commits | ✅ |
 
 ---
 
